@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="556" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="260" dy="155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -789,12 +789,12 @@
           <mxGeometry x="1510" y="1110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEd_sDmhvxONiex8W0TN-0" value="registroEdicionEvento()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
-          <mxGeometry x="2767" y="1610" width="480" height="30" as="geometry" />
+          <mxGeometry x="2767" y="1630" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEd_sDmhvxONiex8W0TN-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2710" y="1640" as="sourcePoint" />
-            <mxPoint x="3310" y="1640" as="targetPoint" />
+            <mxPoint x="2710" y="1660" as="sourcePoint" />
+            <mxPoint x="3310" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sEd_sDmhvxONiex8W0TN-2" value="sleccionAsistente(DTUsuario, DTTipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
