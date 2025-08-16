@@ -43,7 +43,7 @@
         <mxCell id="XvD1D9-V97MnuDnXe-HW-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="840" width="670" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="XvD1D9-V97MnuDnXe-HW-46" value="[Si ya estaba en evento]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XvD1D9-V97MnuDnXe-HW-46" value="[Si se alcanzó el cupo o ya estaba registrado en la edición]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="840" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XvD1D9-V97MnuDnXe-HW-48" value="OPT" style="shape=card;whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
