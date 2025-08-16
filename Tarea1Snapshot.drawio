@@ -613,7 +613,7 @@
             <mxPoint x="3310" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-6" value="registroAEdicionEvento()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-6" value="registroAEdicionEvento(): set&amp;lt;DTEvento&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="710" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.159;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1" target="tk-jczBtiN_mezLg24A4-0">
@@ -643,7 +643,7 @@
             <mxPoint x="3310" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-13" value="seleccionEvento(DTEvento)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-13" value="seleccionEvento(DTEvento): set&amp;lt;DTEdicion&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="800" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
@@ -652,7 +652,7 @@
             <mxPoint x="3310" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(DTEdicion): set&amp;lt;DTUsuario&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="890" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
