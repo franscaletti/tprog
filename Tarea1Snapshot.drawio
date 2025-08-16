@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="848" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -652,7 +652,7 @@
             <mxPoint x="3310" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(DTEdicion): set&amp;lt;DTUsuario&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(DTEdicion): set&amp;lt;set&amp;lt;DTUsuario&amp;gt; | set&amp;lt;DTTipoRegistro&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="890" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
