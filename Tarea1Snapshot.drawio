@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="1979" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="554" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -878,7 +878,7 @@
             <mxPoint x="5120" y="798.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qz5w-otgsnCUTVqj0kyE-13" value="Usuario := seleccionar(nick: string): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
+        <mxCell id="Qz5w-otgsnCUTVqj0kyE-13" value="Usuario := seleccionar(nick: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
           <mxGeometry x="4690" y="768.26" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qz5w-otgsnCUTVqj0kyE-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
