@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="SFngXKMeFKJR5RbvRdrw">
-    <mxGraphModel dx="1343" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="163" dy="97" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XvD1D9-V97MnuDnXe-HW-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="880" height="1320" as="geometry" />
+          <mxGeometry x="340" y="230" width="880" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="XvD1D9-V97MnuDnXe-HW-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Diagrama de Secuencia caso ...&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="547" y="110" width="460" height="110" as="geometry" />
@@ -31,13 +31,13 @@
         <mxCell id="XvD1D9-V97MnuDnXe-HW-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479.71967741935464" y="445" as="sourcePoint" />
-            <mxPoint x="480" y="1520" as="targetPoint" />
+            <mxPoint x="480" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XvD1D9-V97MnuDnXe-HW-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080.1996774193547" y="445" as="sourcePoint" />
-            <mxPoint x="1080" y="1520" as="targetPoint" />
+            <mxPoint x="1080" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XvD1D9-V97MnuDnXe-HW-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
