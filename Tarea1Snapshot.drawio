@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0" pages="3">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
     <mxGraphModel dx="1565" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="1878" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -493,13 +493,13 @@
         <mxCell id="teg_wg2tHC0hfuOI6_LW-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1480" y="700" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="teg_wg2tHC0hfuOI6_LW-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.144;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" target="teg_wg2tHC0hfuOI6_LW-1" edge="1" source="teg_wg2tHC0hfuOI6_LW-3">
+        <mxCell id="teg_wg2tHC0hfuOI6_LW-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.144;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" source="teg_wg2tHC0hfuOI6_LW-3" target="teg_wg2tHC0hfuOI6_LW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1501" y="850" as="sourcePoint" />
             <mxPoint x="1500" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="teg_wg2tHC0hfuOI6_LW-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.858;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" target="teg_wg2tHC0hfuOI6_LW-1" edge="1" source="teg_wg2tHC0hfuOI6_LW-6">
+        <mxCell id="teg_wg2tHC0hfuOI6_LW-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.858;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" source="teg_wg2tHC0hfuOI6_LW-6" target="teg_wg2tHC0hfuOI6_LW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2100.199677419355" y="850" as="sourcePoint" />
             <mxPoint x="2100" y="1250" as="targetPoint" />
@@ -579,9 +579,6 @@
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2570" y="460" width="880" height="1250" as="geometry" />
-        </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Diagrama de Secuencia caso ...&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="2777" y="340" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-2" value="Registro a Edición de Evento" style="rounded=0;whiteSpace=wrap;html=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2570" y="460" width="160" height="80" as="geometry" />
@@ -884,13 +881,13 @@
         <mxCell id="Qz5w-otgsnCUTVqj0kyE-17" value="[Es asistente]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="4680" y="959.26" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="77dSBwmhkCQ_guMRImUb-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
+        <mxCell id="77dSBwmhkCQ_guMRImUb-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1500" y="828.26" as="sourcePoint" />
             <mxPoint x="2100" y="828.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77dSBwmhkCQ_guMRImUb-1" value="&lt;span&gt;Eventos := listarEventos() : &lt;span&gt;&lt;font style=&quot;&quot;&gt;set (DTEvento&lt;/font&gt;)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
+        <mxCell id="77dSBwmhkCQ_guMRImUb-1" value="&lt;span&gt;Eventos := listarEventos() : &lt;span&gt;&lt;font style=&quot;&quot;&gt;set (DTEvento&lt;/font&gt;)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1575" y="798.26" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
