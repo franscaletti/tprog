@@ -932,7 +932,7 @@
             <mxPoint x="5120" y="1459.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leWqsnRC-uC8aT2ec5zd-2" value="Consulta edicion de Evento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
+        <mxCell id="leWqsnRC-uC8aT2ec5zd-2" value="ConsultaEdicionDeEvento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
           <mxGeometry x="4641" y="1425" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
