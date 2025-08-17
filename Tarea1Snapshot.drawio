@@ -762,13 +762,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1460" y="1360" width="680" height="80" as="geometry" />
+          <mxGeometry x="1460" y="1350" width="680" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-1" value="OPT" style="shape=card;whiteSpace=wrap;html=1;flipV=1;flipH=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1460" y="1360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1460" y="1350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-2" value="[NOT cancelado]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1350" y="1353.33" width="480" height="46.66666666666667" as="geometry" />
+          <mxGeometry x="1530" y="1360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-3" value="[ya existe nombre]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1510" y="1110" width="200" height="30" as="geometry" />
