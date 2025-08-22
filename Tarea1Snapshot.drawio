@@ -219,7 +219,7 @@
           <mxGeometry x="760" y="400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dpizFBpJidmlaV7K1fqd-45" value="se registra para&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="400" width="130" height="20" as="geometry" />
+          <mxGeometry x="560" y="400" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dpizFBpJidmlaV7K1fqd-46" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1010" width="30" height="20" as="geometry" />
