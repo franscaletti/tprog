@@ -581,7 +581,7 @@
           <mxGeometry x="1410" y="990" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="teg_wg2tHC0hfuOI6_LW-28" value="[ya existe nombre y no cancelado]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1510" y="990" width="200" height="30" as="geometry" />
+          <mxGeometry x="1700" y="990" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2570" y="460" width="880" height="1250" as="geometry" />
