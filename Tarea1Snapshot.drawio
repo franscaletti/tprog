@@ -535,8 +535,8 @@
         <mxCell id="teg_wg2tHC0hfuOI6_LW-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;:SISTEMA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2040" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="teg_wg2tHC0hfuOI6_LW-8" value="altaTRegistro(nombreEdicion: string, nombreTipo: string, descripcion: string, costo: int, cupo:int)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1490" y="919.26" width="600" height="30" as="geometry" />
+        <mxCell id="teg_wg2tHC0hfuOI6_LW-8" value="ok := altaTRegistro(nombreEdicion: string, nombreTipo: string, descripcion: string, costo: int, cupo:int): Bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+          <mxGeometry x="1500" y="919.26" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="teg_wg2tHC0hfuOI6_LW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1460" y="1050" width="680" height="80" as="geometry" />
