@@ -1112,7 +1112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-44" value="" style="swimlane;startSize=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="-790" y="120" width="860" height="1510" as="geometry" />
+          <mxGeometry x="-790" y="120" width="860" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-45" value="Alta de Usuario" style="rounded=0;whiteSpace=wrap;html=1;" parent="d6yPybzIPCYp1rz6-2Ag-44" vertex="1">
           <mxGeometry y="-1.4210854715202004e-14" width="160" height="80" as="geometry" />
