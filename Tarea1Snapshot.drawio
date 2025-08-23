@@ -339,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="2212" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1981" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -765,7 +765,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-3" value="[ya existe nombre]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1510" y="1050" width="200" height="30" as="geometry" />
+          <mxGeometry x="1700" y="1050" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEd_sDmhvxONiex8W0TN-0" value="registroEdicionEvento()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2767" y="1630" width="480" height="30" as="geometry" />
@@ -974,8 +974,8 @@
             <mxPoint x="696.2342400000003" y="99.17000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6yPybzIPCYp1rz6-2Ag-8" value="altaOrganizador(nombre: string, nickname:string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
-          <mxGeometry x="160" y="70" width="460" height="30" as="geometry" />
+        <mxCell id="d6yPybzIPCYp1rz6-2Ag-8" value="ok := altaOrganizador(nombre: string, nickname:string, correo: string, descripcion: string): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
+          <mxGeometry x="140" y="70" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-9" value="" style="group" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1" connectable="0">
           <mxGeometry x="19.999999999999957" y="120" width="740" height="360" as="geometry" />
@@ -986,7 +986,7 @@
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-11" value="LOOP" style="shape=card;whiteSpace=wrap;html=1;flipV=1;flipH=1;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
           <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d6yPybzIPCYp1rz6-2Ag-12" value="[ (Existe nick o existe correo) || (NOT cancelado)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
+        <mxCell id="d6yPybzIPCYp1rz6-2Ag-12" value="[ NOT ok || (NOT cancelado)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
           <mxGeometry x="130" y="-3.33" width="480" height="46.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.132;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.922;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" edge="1">
@@ -995,8 +995,8 @@
             <mxPoint x="678.08" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6yPybzIPCYp1rz6-2Ag-14" value="altaOrganizador(nombre: string, nickname:string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
-          <mxGeometry x="140.00000000000003" y="120" width="460" height="30" as="geometry" />
+        <mxCell id="d6yPybzIPCYp1rz6-2Ag-14" value="ok := altaOrganizador(nombre: string, nickname:string, correo: string, descripcion: string): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
+          <mxGeometry x="120" y="120" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-15" value="" style="swimlane;startSize=0;" parent="d6yPybzIPCYp1rz6-2Ag-9" vertex="1">
           <mxGeometry x="20" y="60" width="680" height="260" as="geometry" />
