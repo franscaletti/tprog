@@ -1336,11 +1336,8 @@
         <mxCell id="FRgvHM9fYlkgVBkxmsja-33" value="2.2 add(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="715" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xBfTpI2Twx2xGVRk_fGE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xBfTpI2Twx2xGVRk_fGE-2" value=":Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="97" y="905" width="60" height="30" as="geometry" />
+        <mxCell id="xBfTpI2Twx2xGVRk_fGE-1" value=":Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="670" y="890" width="120" height="60" as="geometry" />
@@ -1357,10 +1354,10 @@
             <mxPoint x="287" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xBfTpI2Twx2xGVRk_fGE-7" value="1 ok := crearUsuario(nombre: string, nickname:string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="197" y="890" width="473" height="30" as="geometry" />
+        <mxCell id="xBfTpI2Twx2xGVRk_fGE-7" value="1 ok := crearOrganizador(nombre: string, nickname:string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="890" width="493" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xBfTpI2Twx2xGVRk_fGE-8" value="altaOrganizado(nombre: string, nickname: string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xBfTpI2Twx2xGVRk_fGE-8" value="altaOrganizador(nombre: string, nickname: string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-413" y="890" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xBfTpI2Twx2xGVRk_fGE-1">
@@ -1512,6 +1509,120 @@
         </mxCell>
         <mxCell id="-1guwE6cVDHNDWkL0OHP-1" value="agregarWeb(URL: string, nickname: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1395" width="277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="683" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-4">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-6" value=":UserHandler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-4">
+          <mxGeometry x="10" y="15" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1guwE6cVDHNDWkL0OHP-2" target="-1guwE6cVDHNDWkL0OHP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1710" as="sourcePoint" />
+            <mxPoint x="300" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-8" value="1 ok := crearAsistente(nombre: string, nickname:string, correo: string, apellido: string, fechaNac: date)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1660" width="593" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-9" value="altaAsistente(nombre: string, nickname: string, correo: string, apellido: string, fechaNac: date)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1660" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-1guwE6cVDHNDWkL0OHP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="1690" as="sourcePoint" />
+            <mxPoint x="40" y="1689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="1640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-12" value="" style="group" vertex="1" connectable="0" parent="-1guwE6cVDHNDWkL0OHP-11">
+          <mxGeometry y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-12">
+          <mxGeometry x="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-14" value=":Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-12">
+          <mxGeometry y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1guwE6cVDHNDWkL0OHP-5" target="-1guwE6cVDHNDWkL0OHP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1780" as="sourcePoint" />
+            <mxPoint x="900" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-16" value="1.1[while ok]&amp;nbsp; u := next()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="713" y="1660" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1guwE6cVDHNDWkL0OHP-5" target="-1guwE6cVDHNDWkL0OHP-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="1820" as="sourcePoint" />
+            <mxPoint x="1020" y="1870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="773" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-18" value="u: &lt;u&gt;Usuario&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-19" value="1.2*&amp;nbsp; ok := u.nombre != nombre &amp;amp;&amp;amp; u.nickname != nickname" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1770" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.644;entryY=0.989;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="-1guwE6cVDHNDWkL0OHP-21" target="-1guwE6cVDHNDWkL0OHP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1183" y="2020" as="sourcePoint" />
+            <mxPoint x="763" y="1850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-21" value="a: &lt;u&gt;Asistente&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-22" value="1.3[ok] a := create(nombre: string, nickname:string, correo: string, apellido: string, fechaNac: date)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1900" width="527" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-1guwE6cVDHNDWkL0OHP-28" target="-1guwE6cVDHNDWkL0OHP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1253" y="2050" as="sourcePoint" />
+            <mxPoint x="733" y="1980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="743" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-24" value="1.4[ok] add(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="793" y="2030" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="949.5" y="2010" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-26" value="" style="group" vertex="1" connectable="0" parent="-1guwE6cVDHNDWkL0OHP-25">
+          <mxGeometry y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-26">
+          <mxGeometry x="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-28" value=":Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-26">
+          <mxGeometry y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-29" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Coleccion de ususarios o de organizadores y asistentes por separado? o ambas&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="223" y="1840" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-30">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-3" value=":Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1guwE6cVDHNDWkL0OHP-30">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
