@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="2212" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1726,6 +1726,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1510" y="2260" as="sourcePoint" />
             <mxPoint x="1560" y="2210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTqMNq3K-i4vurmJUfCk-1" value="El booleano &lt;i&gt;ok&lt;/i&gt;&amp;nbsp;sería inicializado con el valor TRUE" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="977" y="745" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iTqMNq3K-i4vurmJUfCk-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iTqMNq3K-i4vurmJUfCk-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="908" y="890" as="sourcePoint" />
+            <mxPoint x="958" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
