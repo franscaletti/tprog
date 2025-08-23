@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="1935" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1321,7 +1321,7 @@
           <mxGeometry x="550" y="715" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-1" value=":Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="57" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="670" y="890" width="120" height="60" as="geometry" />
@@ -1339,15 +1339,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-7" value="1 ok := crearOrganizador(nombre: string, nickname:string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="177" y="890" width="493" height="30" as="geometry" />
+          <mxGeometry x="160" y="890" width="493" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-8" value="altaOrganizador(nombre: string, nickname: string, correo: string, descripcion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-413" y="890" width="480" height="30" as="geometry" />
+          <mxGeometry x="-450" y="890" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="xBfTpI2Twx2xGVRk_fGE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-403" y="920" as="sourcePoint" />
-            <mxPoint x="27" y="919" as="targetPoint" />
+            <mxPoint x="-440" y="920" as="sourcePoint" />
+            <mxPoint x="-10" y="919" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xBfTpI2Twx2xGVRk_fGE-10" value="" style="group" parent="1" vertex="1" connectable="0">
