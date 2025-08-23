@@ -1124,12 +1124,12 @@
           <mxGeometry x="1510" y="1080" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A78UJtwetm5gxXKHb91W-1" value="No se si hay mehor forma de hacerlo (separar elegir edicion de los datos) sin memoria." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="2320" y="800" width="190" height="160" as="geometry" />
+          <mxGeometry x="2310" y="800" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="16hVNqSaCc7aMTrVZFsW-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2230" y="880" as="sourcePoint" />
-            <mxPoint x="2320" y="880" as="targetPoint" />
+            <mxPoint x="2220" y="880" as="sourcePoint" />
+            <mxPoint x="2310" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
