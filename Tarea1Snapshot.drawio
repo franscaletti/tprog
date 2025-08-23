@@ -425,7 +425,7 @@
           <mxGeometry x="1700" y="990" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="2570" y="460" width="880" height="1250" as="geometry" />
+          <mxGeometry x="2570" y="460" width="880" height="1190" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-2" value="Registro a Edición de Evento" style="rounded=0;whiteSpace=wrap;html=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2570" y="460" width="160" height="80" as="geometry" />
@@ -499,7 +499,7 @@
         <mxCell id="tk-jczBtiN_mezLg24A4-19" value="[Si quiere editar]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2767" y="1240" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-20" value="seleccionAsistente(DTUsuario, DTTipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-20" value="seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2767" y="1290" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-21" value="OPT" style="shape=card;whiteSpace=wrap;html=1;flipV=1;flipH=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
@@ -586,15 +586,6 @@
         </mxCell>
         <mxCell id="qNHLHv0pWLpzSs8XGbOx-3" value="[ya existe nombre]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1700" y="1050" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sEd_sDmhvxONiex8W0TN-0" value="registroEdicionEvento()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="2767" y="1630" width="480" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sEd_sDmhvxONiex8W0TN-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2710" y="1660" as="sourcePoint" />
-            <mxPoint x="3310" y="1660" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sEd_sDmhvxONiex8W0TN-2" value="seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2767" y="1054.66" width="480" height="30" as="geometry" />
