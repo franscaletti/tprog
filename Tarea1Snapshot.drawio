@@ -1840,17 +1840,17 @@
         <mxCell id="IAbx9SYWqogsmhAZyjFA-17" value=":Registro" style="rounded=0;whiteSpace=wrap;html=1;" parent="IAbx9SYWqogsmhAZyjFA-15" vertex="1">
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IAbx9SYWqogsmhAZyjFA-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IAbx9SYWqogsmhAZyjFA-20" target="IAbx9SYWqogsmhAZyjFA-10" edge="1">
+        <mxCell id="IAbx9SYWqogsmhAZyjFA-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="3730" as="sourcePoint" />
-            <mxPoint x="840" y="3650" as="targetPoint" />
+            <mxPoint x="968" y="3710" as="sourcePoint" />
+            <mxPoint x="680" y="3630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="3730" />
+              <mxPoint x="680" y="3710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2* esta := nombreEdicion == devolverEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="681.5" y="3700" width="278" height="30" as="geometry" />
+          <mxGeometry x="689" y="3680" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-20" value="reg &lt;u&gt;:Registro&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="3700" width="120" height="60" as="geometry" />
@@ -1863,6 +1863,9 @@
             <mxPoint x="410" y="3600" as="sourcePoint" />
             <mxPoint x="460" y="3550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.2* esta := nombreEdicion == devolverEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3710" width="278" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
