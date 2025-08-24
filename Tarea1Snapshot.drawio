@@ -493,7 +493,7 @@
             <mxPoint x="3310" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-17" value="listarAsistentes(DTEdicion): set&amp;lt;DTUsuario&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-17" value="listarAsistentes(edicion: DTEdicion): set&amp;lt;DTUsuario&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="970" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
