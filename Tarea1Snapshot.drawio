@@ -945,7 +945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="1981" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1849,7 +1849,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2* esta := nombreEdicion == devolverEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2* nombreEdicion := getNombreEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="689" y="3680" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-20" value="reg &lt;u&gt;:Registro&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1864,7 +1864,7 @@
             <mxPoint x="460" y="3550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.2* esta := nombreEdicion == devolverEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.3* esta := edicion.nombre == nombreEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="3710" width="278" height="30" as="geometry" />
         </mxCell>
       </root>
