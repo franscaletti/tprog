@@ -1856,7 +1856,13 @@
           <mxGeometry x="968" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ic8kOwTNNadWTd5p5VJr-1" value="De dónde sale el asistente string?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="3320" width="253.5" height="100" as="geometry" />
+          <mxGeometry x="391.5" y="3290" width="253.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ic8kOwTNNadWTd5p5VJr-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.631;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IAbx9SYWqogsmhAZyjFA-3" target="ic8kOwTNNadWTd5p5VJr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="3600" as="sourcePoint" />
+            <mxPoint x="460" y="3550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
