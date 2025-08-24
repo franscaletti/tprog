@@ -1759,7 +1759,7 @@
             <mxPoint x="1553.5" y="4080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dlflfI6cYi7LYCH5SZqj-2" value="1.2.2.1&amp;nbsp; tr := find(tipoRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dlflfI6cYi7LYCH5SZqj-2" value="1.2.2.1&amp;nbsp; tr := find(tipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1311.5" y="4050" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dlflfI6cYi7LYCH5SZqj-3" value="" style="group" parent="1" vertex="1" connectable="0">
