@@ -1750,7 +1750,7 @@
         <mxCell id="w1PmpBo4p1R0OFGP73i7-12" value="edi:&amp;nbsp;&lt;u&gt;Edicion&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1191.5" y="4050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w1PmpBo4p1R0OFGP73i7-13" value="2.2.2 ok = registrar(asistente&amp;gt;string, tipoRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w1PmpBo4p1R0OFGP73i7-13" value="2.2.2 ok := registrar(asistente:string, tipoRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="861.5" y="4050" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dlflfI6cYi7LYCH5SZqj-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w1PmpBo4p1R0OFGP73i7-12" target="dlflfI6cYi7LYCH5SZqj-6" edge="1">
