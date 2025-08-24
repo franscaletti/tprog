@@ -1639,9 +1639,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJoQNrG86UrK6WgcQDrN-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.089;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2hWQ999UA6xgr8qWO6Gk-1" target="fJoQNrG86UrK6WgcQDrN-12" edge="1">
+        <mxCell id="fJoQNrG86UrK6WgcQDrN-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="fJoQNrG86UrK6WgcQDrN-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-410" y="3480" as="sourcePoint" />
+            <mxPoint x="-720" y="3480" as="sourcePoint" />
             <mxPoint x="-220" y="3479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1675,8 +1675,8 @@
         <mxCell id="fJoQNrG86UrK6WgcQDrN-13" value=":&lt;u&gt;Controller&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fJoQNrG86UrK6WgcQDrN-11" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2hWQ999UA6xgr8qWO6Gk-1" value="seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="3450" width="480" height="30" as="geometry" />
+        <mxCell id="2hWQ999UA6xgr8qWO6Gk-1" value="seleccionAsistente(usuario: DTUsuario, tipo: DTTipoRegistro, evento: DTEvento, edicion: DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="3450" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1PmpBo4p1R0OFGP73i7-1" value="2[esta] ok := seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-110" y="3780" width="480" height="30" as="geometry" />
