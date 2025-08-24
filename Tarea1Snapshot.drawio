@@ -1679,7 +1679,7 @@
           <mxGeometry x="-640" y="3450" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1PmpBo4p1R0OFGP73i7-1" value="2[esta] ok := seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-99.5" y="3780" width="480" height="30" as="geometry" />
+          <mxGeometry x="-110" y="3780" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1PmpBo4p1R0OFGP73i7-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w1PmpBo4p1R0OFGP73i7-3" target="fJoQNrG86UrK6WgcQDrN-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
