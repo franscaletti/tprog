@@ -1774,7 +1774,7 @@
             <mxPoint x="260" y="3480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASR5faSoOHaBvRcV6laY-2" value="1 esta := estaRegistrado(DTUsuario, DTEdicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ASR5faSoOHaBvRcV6laY-2" value="1 esta := estaRegistrado(usuario, edicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50.5" y="3450" width="301" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-1" value="" style="group" parent="1" vertex="1" connectable="0">
