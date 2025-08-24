@@ -1646,7 +1646,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fJoQNrG86UrK6WgcQDrN-5" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="689" y="3730" width="140" height="80" as="geometry" />
+          <mxGeometry x="689" y="3730" width="272" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJoQNrG86UrK6WgcQDrN-6" value="" style="group" parent="fJoQNrG86UrK6WgcQDrN-5" vertex="1" connectable="0">
           <mxGeometry x="57.5" y="40" width="130" height="70" as="geometry" />
@@ -1656,6 +1656,9 @@
         </mxCell>
         <mxCell id="fJoQNrG86UrK6WgcQDrN-8" value=":Evento" style="rounded=0;whiteSpace=wrap;html=1;" parent="fJoQNrG86UrK6WgcQDrN-6" vertex="1">
           <mxGeometry y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.3* esta := edicion.nombre == nombreEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJoQNrG86UrK6WgcQDrN-5">
+          <mxGeometry x="-6" y="-20" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJoQNrG86UrK6WgcQDrN-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJoQNrG86UrK6WgcQDrN-2" target="fJoQNrG86UrK6WgcQDrN-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1850,7 +1853,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2* nombreEdicion := getNombreEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="689" y="3680" width="278" height="30" as="geometry" />
+          <mxGeometry x="681.5" y="3680" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-20" value="reg &lt;u&gt;:Registro&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="3700" width="120" height="60" as="geometry" />
@@ -1863,9 +1866,6 @@
             <mxPoint x="410" y="3600" as="sourcePoint" />
             <mxPoint x="460" y="3550" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.3* esta := edicion.nombre == nombreEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="3710" width="278" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
