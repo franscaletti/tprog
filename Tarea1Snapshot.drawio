@@ -484,7 +484,7 @@
             <mxPoint x="3310" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(DTEdicion): set&amp;lt;DTTipoRegistro&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="tk-jczBtiN_mezLg24A4-15" value="seleccionEdicion(edicion: DTEdicion): set&amp;lt;DTTipoRegistro&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2780" y="890" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
