@@ -1903,6 +1903,15 @@
             <mxPoint x="178" y="3790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tKQ6PjAXrl2dg8uiSFPQ-1" value="nombreEdicion = edicion.nombre&lt;div&gt;asistente = usuario.nombre&lt;/div&gt;&lt;div&gt;tipoRegistro = tipo.nombre&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="471" y="4081" width="258.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FuDEjVG09ZUzVihk84Fc-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tKQ6PjAXrl2dg8uiSFPQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="592.25" y="4080" as="sourcePoint" />
+            <mxPoint x="600" y="3980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
