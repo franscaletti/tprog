@@ -1786,7 +1786,7 @@
         <mxCell id="dlflfI6cYi7LYCH5SZqj-8" value=":TipoRegistro" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="4180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dlflfI6cYi7LYCH5SZqj-9" value="1.2.2.3 ok = registrar(asistente: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dlflfI6cYi7LYCH5SZqj-9" value="1.2.2.3 ok = registrar(asistente)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1254" y="4180" width="225.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ASR5faSoOHaBvRcV6laY-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJoQNrG86UrK6WgcQDrN-12" target="IAbx9SYWqogsmhAZyjFA-2" edge="1">
