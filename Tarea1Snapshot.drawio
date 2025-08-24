@@ -1735,7 +1735,7 @@
             <mxPoint x="1026.5" y="4000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w1PmpBo4p1R0OFGP73i7-10" value="2.2.1&amp;nbsp; edi := find(nombreEvento: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w1PmpBo4p1R0OFGP73i7-10" value="2.2.1&amp;nbsp; edi := find(nombreEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="973.75" y="3930" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1PmpBo4p1R0OFGP73i7-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w1PmpBo4p1R0OFGP73i7-12" target="w1PmpBo4p1R0OFGP73i7-3" edge="1">
