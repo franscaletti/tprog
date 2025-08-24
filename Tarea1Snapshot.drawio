@@ -1876,8 +1876,8 @@
             <mxPoint x="220" y="3450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgHBC08ccmHQNVi4gIGw-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;Revisar si el asistente ya está registrado a esa edición del&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;evento&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-98.5" y="3620" width="253.5" height="100" as="geometry" />
+        <mxCell id="FgHBC08ccmHQNVi4gIGw-5" value="Revisar si ya se alcanzó el cupo&lt;br/&gt;para el tipo de registro" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-98.5" y="3620" width="258.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgHBC08ccmHQNVi4gIGw-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FgHBC08ccmHQNVi4gIGw-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
