@@ -1813,7 +1813,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IAbx9SYWqogsmhAZyjFA-10" value=":Asistente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IAbx9SYWqogsmhAZyjFA-10" value="a &lt;u&gt;:Asistente&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-11" value="1.2 esta := estaRegistrado(DTEdicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
