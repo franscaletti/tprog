@@ -1855,6 +1855,9 @@
         <mxCell id="IAbx9SYWqogsmhAZyjFA-20" value="reg &lt;u&gt;:Registro&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ic8kOwTNNadWTd5p5VJr-1" value="De dónde sale el asistente string?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="389.5" y="3320" width="253.5" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
