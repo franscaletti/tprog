@@ -502,8 +502,8 @@
         <mxCell id="tk-jczBtiN_mezLg24A4-19" value="[Si quiere editar]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2767" y="1240" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tk-jczBtiN_mezLg24A4-20" value="seleccionAsistente(DTUsuario, DTTipoRegistro, DTEvento, DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="2767" y="1290" width="480" height="30" as="geometry" />
+        <mxCell id="tk-jczBtiN_mezLg24A4-20" value="seleccionAsistente(usuario: DTUsuario, tipo: DTTipoRegistro, evento: DTEvento, edicion: DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+          <mxGeometry x="2720" y="1290" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tk-jczBtiN_mezLg24A4-21" value="OPT" style="shape=card;whiteSpace=wrap;html=1;flipV=1;flipH=1;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2687" y="1240" width="80" height="50" as="geometry" />
