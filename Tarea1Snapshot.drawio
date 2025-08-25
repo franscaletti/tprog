@@ -1843,7 +1843,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="410.5" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-2" value=":&lt;u&gt;EventoHandler&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_Ou-haFvtPxOyRgRO52H-1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-2" value=":&lt;u&gt;EventHandler&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_Ou-haFvtPxOyRgRO52H-1" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-14" target="_Ou-haFvtPxOyRgRO52H-2" edge="1">
