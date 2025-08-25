@@ -1282,14 +1282,14 @@
             <mxPoint x="1210" y="2340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iTqMNq3K-i4vurmJUfCk-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="iTqMNq3K-i4vurmJUfCk-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="iTqMNq3K-i4vurmJUfCk-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="932" y="779" as="sourcePoint" />
-            <mxPoint x="1167" y="760" as="targetPoint" />
+            <mxPoint x="850" y="780" as="sourcePoint" />
+            <mxPoint x="1083" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iTqMNq3K-i4vurmJUfCk-4" value="El booleano&amp;nbsp;&lt;i&gt;ok &lt;/i&gt;sería inicializado en TRUE" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="631" width="180" height="100" as="geometry" />
+        <mxCell id="iTqMNq3K-i4vurmJUfCk-4" value="El booleano o&lt;i&gt;k es&lt;/i&gt;&amp;nbsp;inicializado en TRUE" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="1152" y="680" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="em_uA7YQlCBfHXXEwafg-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dcVQTKdJammGfZCv8vj_-2" target="em_uA7YQlCBfHXXEwafg-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
