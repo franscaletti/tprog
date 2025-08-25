@@ -972,7 +972,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="2253" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3464" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1151,7 +1151,7 @@
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1guwE6cVDHNDWkL0OHP-29" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Coleccion de ususarios o de organizadores y asistentes por separado? o ambas&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="223" y="1840" width="260" height="90" as="geometry" />
+          <mxGeometry x="-1060" y="2440" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-1guwE6cVDHNDWkL0OHP-30" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry y="1660" width="120" height="60" as="geometry" />
@@ -1444,7 +1444,7 @@
             <mxPoint x="860" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77VHEzdEdARoj4nsMmZR-14" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Creo y devuelvo DTUsuario&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="77VHEzdEdARoj4nsMmZR-14" value="&lt;span&gt;Creo y devuelvo DTUsuario&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="833" y="540" width="177" height="91" as="geometry" />
         </mxCell>
         <mxCell id="77VHEzdEdARoj4nsMmZR-15" value="1: obtenerDatosUsuario(nick : string)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
