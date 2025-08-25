@@ -1681,8 +1681,8 @@
         <mxCell id="KSze2DCk_jsLcjM-UF-L-30" value="&amp;lt;&amp;lt;global&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="383" y="2990" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f4uA1vAOhi9FwJFi2ESK-1" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Esta versión del diagrama no es la última&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="360" width="260" height="90" as="geometry" />
+        <mxCell id="f4uA1vAOhi9FwJFi2ESK-1" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Esta versión del diagrama no es la última&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;I&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;I&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;v&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="370" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f4uA1vAOhi9FwJFi2ESK-2" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Acá usamos colección de usuarios&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="790" y="420" width="260" height="90" as="geometry" />
