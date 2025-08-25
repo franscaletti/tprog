@@ -982,7 +982,7 @@
         <mxCell id="fusqfUmOykX9SQWgGxzr-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3100" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xemnoNwYBVMKMxOREM2L-1" value=":Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xemnoNwYBVMKMxOREM2L-1" value=":&lt;u&gt;UserController&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="163" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xemnoNwYBVMKMxOREM2L-3" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -1159,13 +1159,13 @@
         <mxCell id="-1guwE6cVDHNDWkL0OHP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="-1guwE6cVDHNDWkL0OHP-30" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-1guwE6cVDHNDWkL0OHP-3" value=":Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-1guwE6cVDHNDWkL0OHP-30" vertex="1">
+        <mxCell id="-1guwE6cVDHNDWkL0OHP-3" value=":&lt;u&gt;UserController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-1guwE6cVDHNDWkL0OHP-30" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcVQTKdJammGfZCv8vj_-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="523" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dcVQTKdJammGfZCv8vj_-2" value=":&lt;u&gt;EventoHandler&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dcVQTKdJammGfZCv8vj_-1" vertex="1">
+        <mxCell id="dcVQTKdJammGfZCv8vj_-2" value=":&lt;u&gt;EventHandler&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dcVQTKdJammGfZCv8vj_-1" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcVQTKdJammGfZCv8vj_-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dcVQTKdJammGfZCv8vj_-28" target="dcVQTKdJammGfZCv8vj_-2" edge="1">
@@ -1240,7 +1240,7 @@
         <mxCell id="dcVQTKdJammGfZCv8vj_-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dcVQTKdJammGfZCv8vj_-27" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dcVQTKdJammGfZCv8vj_-29" value=":&lt;u&gt;Controller&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dcVQTKdJammGfZCv8vj_-27" vertex="1">
+        <mxCell id="dcVQTKdJammGfZCv8vj_-29" value="&lt;u&gt;:EventController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dcVQTKdJammGfZCv8vj_-27" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UM6TT01xHi1KSaLNP45y-1" value="altaTRegistro(nombreEdicion: string, nombreTipo: string, descripcion: string, costo: int, cupo:int)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1372,7 +1372,7 @@
         <mxCell id="em_uA7YQlCBfHXXEwafg-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="em_uA7YQlCBfHXXEwafg-30" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="em_uA7YQlCBfHXXEwafg-32" value=":&lt;u&gt;Controller&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="em_uA7YQlCBfHXXEwafg-30" vertex="1">
+        <mxCell id="em_uA7YQlCBfHXXEwafg-32" value=":&lt;u&gt;EventController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="em_uA7YQlCBfHXXEwafg-30" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="em_uA7YQlCBfHXXEwafg-33" value="eventos := listarEventos() : set(DTEvento)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1396,7 +1396,7 @@
             <mxPoint x="-160" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77VHEzdEdARoj4nsMmZR-2" value=":Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="77VHEzdEdARoj4nsMmZR-2" value=":&lt;u&gt;UserController&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77VHEzdEdARoj4nsMmZR-3" value="obtenerDatosUsuario(nick : String) : DTUsuario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1453,7 +1453,7 @@
         <mxCell id="77VHEzdEdARoj4nsMmZR-16" value="1.2: obtenerDatosUsuario()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="392" y="660" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ucaqtLlv7J_6xEl3m9kM-2" value=":Controller" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="ucaqtLlv7J_6xEl3m9kM-2" value=":&lt;u&gt;UserController&lt;/u&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-250" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ucaqtLlv7J_6xEl3m9kM-3" value="modificarDatosOrganizador(nick : String, nombre : String, web : String, descpricion : String)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1510,7 +1510,7 @@
         <mxCell id="xl5lQLZZMApst3mXMR4V-13" value="1.2: modificarDatos(nombre : String, web : String, descpricion : String)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="448" y="260" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sc_IAF7i74En6QfcN34v-1" value=":Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Sc_IAF7i74En6QfcN34v-1" value=":&lt;u&gt;UserController&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="789" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sc_IAF7i74En6QfcN34v-2" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -1711,7 +1711,7 @@
         <mxCell id="fJoQNrG86UrK6WgcQDrN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="fJoQNrG86UrK6WgcQDrN-11" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fJoQNrG86UrK6WgcQDrN-13" value=":&lt;u&gt;Controller&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fJoQNrG86UrK6WgcQDrN-11" vertex="1">
+        <mxCell id="fJoQNrG86UrK6WgcQDrN-13" value="&lt;u&gt;:UserController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fJoQNrG86UrK6WgcQDrN-11" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hWQ999UA6xgr8qWO6Gk-1" value="seleccionAsistente(usuario: DTUsuario, tipo: DTTipoRegistro, evento: DTEvento, edicion: DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
