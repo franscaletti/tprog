@@ -2055,7 +2055,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AstDBFkzIsTgUu8P7Yen" name="Diagrame de Clase">
-    <mxGraphModel dx="1026" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2353,7 +2353,7 @@
           <mxGeometry x="440" y="910" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZN-Y8_3iTXQxMhBPtNwf-1" value="UserHandler" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="1011" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZN-Y8_3iTXQxMhBPtNwf-5" value="EventoHandler" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="90" width="100" height="30" as="geometry" />
@@ -2396,6 +2396,15 @@
         </mxCell>
         <mxCell id="8hMjKqM-M2yw3y8tMfVD-5" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="341" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pPndfe5FDTw41k_Nq5B1-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZN-Y8_3iTXQxMhBPtNwf-1" target="zmAiYkQs_SEc761MdYTk-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="260" as="sourcePoint" />
+            <mxPoint x="1190" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5c-k8pYgAI3KvYuz776-1" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="292" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
