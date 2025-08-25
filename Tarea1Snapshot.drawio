@@ -2192,21 +2192,6 @@
         <mxCell id="fusqfUmOykX9SQWgGxzr-34" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3005" y="819" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fusqfUmOykX9SQWgGxzr-35" value="1.1: o:= find(nick : String)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1750" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fusqfUmOykX9SQWgGxzr-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1660.5" y="1740" width="120" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="fusqfUmOykX9SQWgGxzr-37" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="fusqfUmOykX9SQWgGxzr-36">
-          <mxGeometry x="10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="fusqfUmOykX9SQWgGxzr-38" value=":Organizadores" style="html=1;whiteSpace=wrap;" vertex="1" parent="fusqfUmOykX9SQWgGxzr-36">
-          <mxGeometry y="12" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="fusqfUmOykX9SQWgGxzr-39" value="&amp;lt;&amp;lt;association&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1550.75" y="1772" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fusqfUmOykX9SQWgGxzr-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="1910" as="sourcePoint" />
