@@ -1946,6 +1946,27 @@
         <mxCell id="KSze2DCk_jsLcjM-UF-L-3" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="690" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-4" value="&amp;lt;&amp;lt;global&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="819" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-5" value="&amp;lt;&amp;lt;association&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="853.25" y="819" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-6" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="973.25" y="929" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-7" value="&amp;lt;&amp;lt;association&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855.5" y="1039" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-8" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975.5" y="1139" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-9" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1249" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSze2DCk_jsLcjM-UF-L-10" value="&amp;lt;&amp;lt;association&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="747" y="1339" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
