@@ -1202,7 +1202,7 @@
           <mxGeometry x="970" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcVQTKdJammGfZCv8vj_-16" value="1.3:&amp;nbsp; ok := existeNombre(nombreRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="668.5" y="2680" width="270" height="30" as="geometry" />
+          <mxGeometry x="672" y="2700" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcVQTKdJammGfZCv8vj_-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dcVQTKdJammGfZCv8vj_-18" target="dcVQTKdJammGfZCv8vj_-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1238,7 +1238,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-2" value="1.3: ok:= member(nombreRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="2670" width="250" height="30" as="geometry" />
+          <mxGeometry x="1102" y="2690" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1360" y="2680" width="140" height="80" as="geometry" />
@@ -1253,15 +1253,15 @@
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-7" value="1.5 [ok] : agregar(tr)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="725.5" y="2705" width="130" height="30" as="geometry" />
+          <mxGeometry x="724.75" y="2730" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sws8evgWazgU5Ud9hTpa-8" value="1.5.1 add(tr)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1142" y="2700" width="130" height="30" as="geometry" />
+        <mxCell id="Sws8evgWazgU5Ud9hTpa-8" value="1.5.1: add(tr)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="2730" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-9" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Es necesario agregar [ok] de vuelta?&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1530" y="2785" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Sws8evgWazgU5Ud9hTpa-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.138;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sws8evgWazgU5Ud9hTpa-8" target="Sws8evgWazgU5Ud9hTpa-9" edge="1">
+        <mxCell id="Sws8evgWazgU5Ud9hTpa-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sws8evgWazgU5Ud9hTpa-2" target="Sws8evgWazgU5Ud9hTpa-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="2390" as="sourcePoint" />
             <mxPoint x="1210" y="2340" as="targetPoint" />
@@ -1675,7 +1675,7 @@
         <mxCell id="fJoQNrG86UrK6WgcQDrN-8" value=":Evento" style="rounded=0;whiteSpace=wrap;html=1;" parent="fJoQNrG86UrK6WgcQDrN-6" vertex="1">
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.3* esta := edicion.nombre == nombreEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fJoQNrG86UrK6WgcQDrN-5" vertex="1">
+        <mxCell id="FgHBC08ccmHQNVi4gIGw-1" value="1.2.3*: esta := edicion.nombre == nombreEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fJoQNrG86UrK6WgcQDrN-5" vertex="1">
           <mxGeometry x="-6" y="-20" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJoQNrG86UrK6WgcQDrN-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJoQNrG86UrK6WgcQDrN-2" target="fJoQNrG86UrK6WgcQDrN-8" edge="1">
@@ -1870,7 +1870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2* nombreEdicion := getNombreEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="IAbx9SYWqogsmhAZyjFA-19" value="1.2.2*: nombreEdicion := getNombreEdicion()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="681.5" y="3680" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAbx9SYWqogsmhAZyjFA-20" value="reg &lt;u&gt;:Registro&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
