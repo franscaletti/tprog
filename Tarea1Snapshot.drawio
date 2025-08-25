@@ -2252,6 +2252,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yk_g6eeWo7WjgSLOFmO--3" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="456" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk_g6eeWo7WjgSLOFmO--4" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="456" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
