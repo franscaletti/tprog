@@ -972,7 +972,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="3464" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4232" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1616,7 +1616,7 @@
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sc_IAF7i74En6QfcN34v-27" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Coleccion de ususarios o de organizadores y asistentes por separado? o ambas&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="155" y="969" width="260" height="90" as="geometry" />
+          <mxGeometry x="-1260" y="1030" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Sc_IAF7i74En6QfcN34v-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.581;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Sc_IAF7i74En6QfcN34v-33" target="Sc_IAF7i74En6QfcN34v-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
