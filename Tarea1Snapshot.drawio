@@ -2073,7 +2073,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AstDBFkzIsTgUu8P7Yen" name="Diagrame de Clase">
-    <mxGraphModel dx="1629" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2319,12 +2319,19 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="390" as="sourcePoint" />
             <mxPoint x="1030" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LEuu4pMzRQRSjqdtviwq-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A6Xz1jHKjTJJMso72QIN-1" target="ZN-Y8_3iTXQxMhBPtNwf-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1450" y="180" as="sourcePoint" />
             <mxPoint x="1140" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="130" />
+              <mxPoint x="1070" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
