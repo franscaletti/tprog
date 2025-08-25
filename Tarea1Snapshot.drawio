@@ -2055,7 +2055,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AstDBFkzIsTgUu8P7Yen" name="Diagrame de Clase">
-    <mxGraphModel dx="839" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2300,15 +2300,6 @@
         </mxCell>
         <mxCell id="zmAiYkQs_SEc761MdYTk-75" value="organiza&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1046" y="630" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="zmAiYkQs_SEc761MdYTk-76" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="800" y="468" width="130" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="zmAiYkQs_SEc761MdYTk-77" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.532;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="zmAiYkQs_SEc761MdYTk-16" target="zmAiYkQs_SEc761MdYTk-76">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="410" as="sourcePoint" />
-            <mxPoint x="890" y="411" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zmAiYkQs_SEc761MdYTk-78" value="Atributo web opcional" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="491.5" width="75" height="49" as="geometry" />
