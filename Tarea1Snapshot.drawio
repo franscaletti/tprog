@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.1" pages="4">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
-    <mxGraphModel dx="1979" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +352,15 @@
         </mxCell>
         <mxCell id="QVwfzuc1S5piizHk2KCT-4" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="900" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VV5JfAIMVGeCD4ZxDTOT-1" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Multiplicidad 1?&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VV5JfAIMVGeCD4ZxDTOT-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=85;exitDy=15;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VV5JfAIMVGeCD4ZxDTOT-1" target="QVwfzuc1S5piizHk2KCT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="920" as="sourcePoint" />
+            <mxPoint x="630" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
