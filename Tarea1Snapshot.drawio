@@ -945,7 +945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="1666" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1876,8 +1876,8 @@
             <mxPoint x="290" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-40" value="1: esta := estaRegistrado(usuario, edicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-33.5" y="3410" width="301" height="30" as="geometry" />
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-40" value="1: esta := estaRegistrado(nombreUsuario, nombreEdicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="3410" width="353.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-41" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="280.5" y="3480" width="120" height="60" as="geometry" />
