@@ -705,8 +705,8 @@
             <mxPoint x="5120" y="919" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXTz505atY7gQhZD2d-h-1" value="mostrarEdicionesOrganizador(): set of DTEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="4680" y="889" width="320" height="30" as="geometry" />
+        <mxCell id="LXTz505atY7gQhZD2d-h-1" value="mostrarEdicionesOrganizador(nick: string): set of DTEdicion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+          <mxGeometry x="4640" y="889" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NBlKh45_OlATIK3Z5xYP-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -714,7 +714,7 @@
             <mxPoint x="5120" y="1278.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBlKh45_OlATIK3Z5xYP-1" value="mostrarRegistrosAsistente(): set of DTRegistro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+        <mxCell id="NBlKh45_OlATIK3Z5xYP-1" value="mostrarRegistrosAsistente(nick: string): set of DTRegistro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="4640" y="1239" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pShGtfWYftZ7QK0vPd37-0" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
