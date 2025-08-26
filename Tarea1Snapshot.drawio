@@ -1885,7 +1885,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-42" value=":&lt;u&gt;UserHandler&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_Ou-haFvtPxOyRgRO52H-41" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-43" value="1.1:&amp;nbsp; a:= find(nombreUsuario: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-43" value="1.1:&amp;nbsp; a:= find(nombreUsuario)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410.5" y="3410" width="212.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-44" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-42" target="_Ou-haFvtPxOyRgRO52H-48" edge="1">
@@ -2045,7 +2045,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-90" value="5: [ok]&amp;nbsp;registrar(nombreUsuario, fecha: date, esPatro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-26.5" y="3480" width="306.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-92" value="5.1:&amp;nbsp; a:= find(usuario: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-92" value="5.1:&amp;nbsp; a:= find(nombreUsuario)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410.5" y="3470" width="206.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-93" value="5.2: registrar(fecha: date, esPatro: bool)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
