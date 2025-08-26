@@ -1795,7 +1795,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-19" value="eve: &lt;u&gt;Evento&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="869.5" y="3960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-20" value="2.2: ok := registrar(nombreEdicion: string, asistente: string, tipoRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-20" value="2.2: ok := chequear(nombreEdicion: string, tipoRegistro: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="433.5" y="3930" width="441.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-21" value="" style="group" parent="1" connectable="0" vertex="1">
