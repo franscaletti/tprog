@@ -945,7 +945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="2456" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1737,7 +1737,7 @@
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="_Ou-haFvtPxOyRgRO52H-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-690" y="3510" as="sourcePoint" />
+            <mxPoint x="-750" y="3510" as="sourcePoint" />
             <mxPoint x="-190" y="3509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1777,8 +1777,8 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-15" value="&lt;u&gt;:UserController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_Ou-haFvtPxOyRgRO52H-13" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-16" value="registroAsistente(usuario: DTUsuario, tipo: DTTipoRegistro, evento: DTEvento, edicion: DTEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="3480" width="560" height="30" as="geometry" />
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-16" value="registroAsistente(nombreUsuario: String, tipoRegistro: String, nombreEvento: String, nombreEdicion: String)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-736.5" y="3477" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-17" value="2 [esta]: ok := seleccionAsistente(usuario, tipo, evento, edicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-79.5" y="3780" width="480" height="30" as="geometry" />
