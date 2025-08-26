@@ -1975,9 +1975,6 @@
             <mxPoint x="630" y="4010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-65" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(103, 171, 159));&quot;&gt;Algunas dudas:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Las variables&amp;nbsp;&lt;i&gt;esta&amp;nbsp;&lt;/i&gt;y&amp;nbsp;&lt;i&gt;ok&lt;/i&gt;&amp;nbsp;podrían ser una variable booleana sola? Total, con que una falle ya está&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="3540" width="310" height="227" as="geometry" />
-        </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-37" target="_Ou-haFvtPxOyRgRO52H-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1640" y="4310" as="sourcePoint" />
