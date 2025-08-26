@@ -1831,7 +1831,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-28" value="edi:&amp;nbsp;&lt;u&gt;Edicion&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1221.5" y="4080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-29" value="2.2.2: ok := registrar(asistente, tipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-29" value="2.2.2: ok := chequear(tipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="891.5" y="4050" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-28" target="_Ou-haFvtPxOyRgRO52H-35" edge="1">
