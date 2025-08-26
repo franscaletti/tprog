@@ -1171,7 +1171,7 @@
             <mxPoint x="740" y="2550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dcVQTKdJammGfZCv8vj_-13" value="1.1:&amp;nbsp; eve := find(nombreEdicion: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dcVQTKdJammGfZCv8vj_-13" value="1.1:&amp;nbsp; eve := find(nombreEvento: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="2480" width="217" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcVQTKdJammGfZCv8vj_-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.609;exitY=1.008;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="dcVQTKdJammGfZCv8vj_-2" target="dcVQTKdJammGfZCv8vj_-15" edge="1">
