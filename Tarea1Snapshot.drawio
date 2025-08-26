@@ -1919,7 +1919,7 @@
           <mxGeometry x="620" y="3600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-51" value="1.2: esta := estaRegistrado(nombreEdicion) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="383" y="3550" width="278.5" height="30" as="geometry" />
+          <mxGeometry x="381.5" y="3570" width="278.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-50" target="_Ou-haFvtPxOyRgRO52H-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2019,7 +2019,7 @@
           <mxGeometry x="410.25" y="3440" width="206.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-81" value="3.2: insti := devolverInstitucion() : string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="377.75" y="3580" width="236.25" height="30" as="geometry" />
+          <mxGeometry x="378.75" y="3600" width="236.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-82" value="4 [ok]: esPatro := esPatrocinio(nombreEvento, nombreEdicion, insti): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-80" y="3810" width="480" height="30" as="geometry" />
@@ -2042,22 +2042,19 @@
             <mxPoint x="281" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-90" value="5: [ok]&amp;nbsp;registrar(nombreUsuario, fecha: date, esPatro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-90" value="5: [ok]&amp;nbsp;registrar(nombreUsuario, fecha: date, esPatro, tipoRegistro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-26.5" y="3480" width="306.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-92" value="5.1:&amp;nbsp; a:= find(nombreUsuario)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410.5" y="3470" width="206.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-93" value="5.2: registrar(fecha: date, esPatro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="381.5" y="3600" width="236.25" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-94" value="if (patro == true) then costo_real = 0&lt;div&gt;else costo_real = tipoRegistro.costo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="3640" width="208" height="50" as="geometry" />
+          <mxGeometry x="22.75" y="3650" width="208" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=207.99999999999997;exitDy=33;exitPerimeter=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-94" edge="1" target="_Ou-haFvtPxOyRgRO52H-93">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-94" edge="1" target="_Ou-haFvtPxOyRgRO52H-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="3690" as="sourcePoint" />
-            <mxPoint x="400" y="3640" as="targetPoint" />
+            <mxPoint x="310" y="3580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5a5RZWHqd6bodI-y2a2r-1" value=":&lt;u&gt;UserController&lt;/u&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
