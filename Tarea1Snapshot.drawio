@@ -2126,7 +2126,7 @@
         <mxCell id="5a5RZWHqd6bodI-y2a2r-17" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3290.5" y="1140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0nB3-AkCTr1Wtuo3zeuJ-1" value="1: Se verifica que no exista un asistente registrado&lt;div&gt;2: Se verifica que hayan cupos&lt;/div&gt;&lt;div&gt;3: Se verifica si la institución patrocina (para calcular el costo_real)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="0nB3-AkCTr1Wtuo3zeuJ-1" value="1: Se verifica que no exista un asistente registrado&lt;div&gt;2: Se verifica que hayan cupos&lt;/div&gt;&lt;div&gt;3 y 4: Se verifica si la institución patrocina (para calcular el costo_real)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-50" y="3970" width="330" height="150" as="geometry" />
         </mxCell>
       </root>
