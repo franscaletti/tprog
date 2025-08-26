@@ -1244,7 +1244,7 @@
           <mxGeometry x="1145" y="2730" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-9" value="&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Es necesario agregar [ok] de vuelta?&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="2785" width="280" height="100" as="geometry" />
+          <mxGeometry x="1422.75" y="2840" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sws8evgWazgU5Ud9hTpa-2" target="Sws8evgWazgU5Ud9hTpa-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
