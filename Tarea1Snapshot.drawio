@@ -1780,8 +1780,8 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-16" value="registroAsistente(nombreUsuario: String, tipoRegistro: String, nombreEvento: String, nombreEdicion: String)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-736.5" y="3477" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-17" value="2 [NOT esta]: ok := seleccionAsistente(usuario, tipo, evento, edicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-79.5" y="3780" width="480" height="30" as="geometry" />
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-17" value="2 [NOT esta]: ok := seleccionAsistente(nombreUsuario, tipoRegistro, nombreEvento, nombreEdicion)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="3780" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-19" target="_Ou-haFvtPxOyRgRO52H-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
