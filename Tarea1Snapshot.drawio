@@ -945,7 +945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AvLxePaOKA7bex4RvZ8" name="Diagrama comunicacion">
-    <mxGraphModel dx="2031" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2125,6 +2125,9 @@
         </mxCell>
         <mxCell id="5a5RZWHqd6bodI-y2a2r-17" value="&amp;lt;&amp;lt;local&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3290.5" y="1140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0nB3-AkCTr1Wtuo3zeuJ-1" value="1: Se verifica que no exista un asistente registrado&lt;div&gt;2: Se verifica que hayan cupos&lt;/div&gt;&lt;div&gt;3: Se verifica si la institución patrocina (para calcular el costo_real)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3970" width="330" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
