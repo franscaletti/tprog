@@ -2042,7 +2042,7 @@
             <mxPoint x="281" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-90" value="5: [ok]&amp;nbsp;registrar(usuario: string, fecha: date, esPatro: bool)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-90" value="5: [ok]&amp;nbsp;registrar(nombreUsuario, fecha: date, esPatro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-26.5" y="3480" width="306.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-92" value="5.1:&amp;nbsp; a:= find(usuario: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
