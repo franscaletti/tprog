@@ -2013,7 +2013,7 @@
           <mxGeometry x="298" y="3840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-79" value="3: [ok] insti := nombreInst(usuario) : string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-33.5" y="3440" width="301" height="30" as="geometry" />
+          <mxGeometry x="-36.5" y="3447" width="301" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-80" value="3.1:&amp;nbsp; a:= find(usuario: string)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410.25" y="3440" width="206.5" height="30" as="geometry" />
