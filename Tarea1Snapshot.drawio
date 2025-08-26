@@ -2148,7 +2148,7 @@
           <mxGeometry x="3290.5" y="1140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lhzJT4C8SMExyjxQYZTR-1" value="Por qué busca una edición por el nombre del evento? Tal vez debería recibir como parámetro el nombre del evento." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=light-dark(#FFFFFF,#67AB9F);" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2330" width="210" height="100" as="geometry" />
+          <mxGeometry x="1067" y="2360" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
