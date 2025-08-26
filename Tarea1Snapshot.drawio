@@ -2048,8 +2048,8 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-92" value="5.1:&amp;nbsp; a:= find(nombreUsuario)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410.5" y="3470" width="206.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-94" value="if (patro == true) then costo_real = 0&lt;div&gt;else costo_real = tipoRegistro.costo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
-          <mxGeometry x="22.75" y="3650" width="208" height="50" as="geometry" />
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-94" value="La función registrar se encarga de dar de alta el registro, teniendo como consideración:&lt;div&gt;if (patro == true) then costo_real = 0&lt;div&gt;else costo_real = tipoRegistro.costo&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
+          <mxGeometry x="-6.870000000000001" y="3620" width="267.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-94" edge="1" target="_Ou-haFvtPxOyRgRO52H-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
