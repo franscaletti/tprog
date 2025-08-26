@@ -2024,7 +2024,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-82" value="4 [ok]: esPatro := esPatrocinio(nombreEvento, nombreEdicion, insti)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-80" y="3810" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-83" value="4.1:&amp;nbsp; eve := find(evento.nombre)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-83" value="4.1:&amp;nbsp; eve := find(nombreEvento)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550.5" y="3810" width="206.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-84" value="4.2: esPatro := (nombreEdicion: string, insti:string) : bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
