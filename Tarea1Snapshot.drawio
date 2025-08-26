@@ -1213,8 +1213,8 @@
         <mxCell id="dcVQTKdJammGfZCv8vj_-29" value="&lt;u&gt;:EventController&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dcVQTKdJammGfZCv8vj_-27" vertex="1">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UM6TT01xHi1KSaLNP45y-1" value="altaTRegistro(nombreEdicion: string, nombreTipo: string, descripcion: string, costo: int, cupo:int)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-687" y="2480" width="517" height="30" as="geometry" />
+        <mxCell id="UM6TT01xHi1KSaLNP45y-1" value="altaTRegistro(nombreEvento:string, nombreEdicion: string, nombreTipo: string, descripcion: string, costo: int, cupo:int)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="2480" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sws8evgWazgU5Ud9hTpa-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dcVQTKdJammGfZCv8vj_-15" target="Sws8evgWazgU5Ud9hTpa-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
