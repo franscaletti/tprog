@@ -2051,7 +2051,7 @@
         <mxCell id="_Ou-haFvtPxOyRgRO52H-93" value="5.2: registrar(fecha: date, esPatro)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="381.5" y="3600" width="236.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Ou-haFvtPxOyRgRO52H-94" value="if (patro == true) then costo_real = 0&lt;div&gt;else costo_real =&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
+        <mxCell id="_Ou-haFvtPxOyRgRO52H-94" value="if (patro == true) then costo_real = 0&lt;div&gt;else costo_real = tipoRegistro.costo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" parent="1" vertex="1">
           <mxGeometry x="56.5" y="3640" width="208" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_Ou-haFvtPxOyRgRO52H-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=207.99999999999997;exitDy=33;exitPerimeter=0;" parent="1" source="_Ou-haFvtPxOyRgRO52H-94" edge="1">
