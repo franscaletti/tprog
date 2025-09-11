@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="5">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2708,6 +2708,17 @@
         </mxCell>
         <mxCell id="YguDNL1qLxYNAjimTA8_-3" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Diagrama Diseño del Sitio Web Estático" id="IPDr1E_J4ODhV3s-z2NI">
+    <mxGraphModel dx="983" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ytQCY13bChgcQDcoU8io-0" />
+        <mxCell id="ytQCY13bChgcQDcoU8io-1" parent="ytQCY13bChgcQDcoU8io-0" />
+        <mxCell id="ytQCY13bChgcQDcoU8io-82" value="«interface»&lt;br&gt;&lt;b&gt;IInstutionHandler&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="ytQCY13bChgcQDcoU8io-1">
+          <mxGeometry x="1460" y="70" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
