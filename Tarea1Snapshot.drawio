@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="6">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
     <mxGraphModel dx="1810" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,6 +391,26 @@
             <mxPoint x="1349.5" y="300" as="sourcePoint" />
             <mxPoint x="1350" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="DSS nuevos tarea 2" id="rwOwxIqVmzRGTNlzeT6_">
+    <mxGraphModel dx="1810" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-0" />
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-1" parent="T2HKpHbczaxW3bVyXDnP-0" />
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Diagrama de Secuencia caso ...&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T2HKpHbczaxW3bVyXDnP-1">
+          <mxGeometry x="100" y="340" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="T2HKpHbczaxW3bVyXDnP-1">
+          <mxGeometry x="2570" y="460" width="880" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T2HKpHbczaxW3bVyXDnP-1">
+          <mxGeometry x="2570" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HKpHbczaxW3bVyXDnP-143" value="" style="swimlane;startSize=0;" vertex="1" parent="T2HKpHbczaxW3bVyXDnP-1">
+          <mxGeometry x="220" y="479.26" width="860" height="1480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
