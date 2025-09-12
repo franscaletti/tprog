@@ -378,7 +378,19 @@
           <mxGeometry y="70" width="150" height="22" as="geometry" />
         </mxCell>
         <mxCell id="RnV08mUiVXZ4OLwiAU2Q-10" value="Visitante ?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="64" width="140" height="52" as="geometry" />
+          <mxGeometry x="1280" y="300" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="RnV08mUiVXZ4OLwiAU2Q-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="260" as="sourcePoint" />
+            <mxPoint x="1040" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnV08mUiVXZ4OLwiAU2Q-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1349.5" y="300" as="sourcePoint" />
+            <mxPoint x="1350" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
