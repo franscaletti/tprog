@@ -1131,7 +1131,7 @@
           <mxGeometry x="2715" y="2238.26" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fiSSGBA3OiN6BA7flZ66-4" value="[Fue advertido y quiere volver a intentar iniciar sesión]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
-          <mxGeometry x="2847" y="2230" width="480" height="40" as="geometry" />
+          <mxGeometry x="2850" y="2230" width="480" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
