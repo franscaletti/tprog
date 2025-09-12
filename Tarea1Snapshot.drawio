@@ -147,9 +147,9 @@
         <mxCell id="RnV08mUiVXZ4OLwiAU2Q-3" value="imagen: ---" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="agMcymQ5COdE-LydsrBo-83">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="agMcymQ5COdE-LydsrBo-89" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IM8bj27vjW2e1TcxEnKg-9" target="IM8bj27vjW2e1TcxEnKg-10" edge="1">
+        <mxCell id="agMcymQ5COdE-LydsrBo-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="IM8bj27vjW2e1TcxEnKg-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="720" as="sourcePoint" />
+            <mxPoint x="1040" y="840" as="sourcePoint" />
             <mxPoint x="990" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
