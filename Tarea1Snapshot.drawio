@@ -377,6 +377,9 @@
         <mxCell id="RnV08mUiVXZ4OLwiAU2Q-8" value="Ingresada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RnV08mUiVXZ4OLwiAU2Q-5">
           <mxGeometry y="70" width="150" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="RnV08mUiVXZ4OLwiAU2Q-10" value="Visitante ?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="64" width="140" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
