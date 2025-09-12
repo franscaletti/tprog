@@ -366,7 +366,7 @@
           <mxGeometry x="620" y="900" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RnV08mUiVXZ4OLwiAU2Q-5" value="&amp;lt;&amp;lt;enum&amp;gt;&amp;gt;&lt;div&gt;DTEstado&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="850" width="150" height="92" as="geometry" />
+          <mxGeometry x="230" y="308" width="150" height="92" as="geometry" />
         </mxCell>
         <mxCell id="RnV08mUiVXZ4OLwiAU2Q-6" value="Aceptada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RnV08mUiVXZ4OLwiAU2Q-5">
           <mxGeometry y="26" width="150" height="24" as="geometry" />
