@@ -147,7 +147,7 @@
         <mxCell id="agMcymQ5COdE-LydsrBo-87" value="&lt;div&gt;FechaAlta: date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="agMcymQ5COdE-LydsrBo-83" vertex="1">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RnV08mUiVXZ4OLwiAU2Q-3" value="imagen: archivo .jpg &lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;(?)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="agMcymQ5COdE-LydsrBo-83" vertex="1">
+        <mxCell id="RnV08mUiVXZ4OLwiAU2Q-3" value="imagen: DTImagen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="agMcymQ5COdE-LydsrBo-83" vertex="1">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="agMcymQ5COdE-LydsrBo-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="IM8bj27vjW2e1TcxEnKg-10" edge="1">
