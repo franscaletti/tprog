@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1" pages="5">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
-    <mxGraphModel dx="733" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1172,10 +1172,19 @@
           <mxGeometry x="250" y="20" width="700" height="340" as="geometry" />
         </mxCell>
         <UserObject label="&lt;img src=&quot;https://www.seoptimer.com/storage/images/2021/06/estructura-sitio-web.png&quot; alt=&quot;Qué incluir en un esquema web (con Plantilla Gratis) - SEOptimer&quot;&gt;" link="&lt;img src=&quot;https://www.seoptimer.com/storage/images/2021/06/estructura-sitio-web.png&quot; alt=&quot;Qué incluir en un esquema web (con Plantilla Gratis) - SEOptimer&quot;&gt;" id="W_s9jwnX6V2TCNugVZCy-0">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ytQCY13bChgcQDcoU8io-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="ytQCY13bChgcQDcoU8io-1" vertex="1">
             <mxGeometry x="1020" y="20" width="30" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="B6eAuTMG0NygQjuWm9Pk-0" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;HOMEPAGE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ytQCY13bChgcQDcoU8io-1">
+          <mxGeometry x="700" y="440" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Oam4VwyFTUM596OeZoNB-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ytQCY13bChgcQDcoU8io-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="480" as="sourcePoint" />
+            <mxPoint x="1050" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
