@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1" pages="5">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
-    <mxGraphModel dx="1810" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,7 +408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -1154,8 +1154,8 @@
         <mxCell id="fiSSGBA3OiN6BA7flZ66-4" value="[Fue advertido y quiere volver a intentar iniciar sesión]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="2850" y="2230" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="umBaieaVM6OhI6DmlJ3u-0" value="&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;Modificar alguno de estos con lo nuevo (contraseña / imagen) y agregarlo en la entrega también&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
-          <mxGeometry x="1720" y="1379" width="270" height="100" as="geometry" />
+        <mxCell id="umBaieaVM6OhI6DmlJ3u-0" value="&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;Este es el modificaco para usar en entrega;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
+          <mxGeometry x="590" y="360" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="STQNH0pC9owk2r0d6wsT-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
           <mxGeometry x="1570" y="2098" width="650" height="240" as="geometry" />
