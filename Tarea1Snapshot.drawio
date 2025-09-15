@@ -1188,7 +1188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Diagrama Diseño del Sitio Web Estático" id="IPDr1E_J4ODhV3s-z2NI">
-    <mxGraphModel dx="1791" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="237" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ytQCY13bChgcQDcoU8io-0" />
         <mxCell id="ytQCY13bChgcQDcoU8io-1" parent="ytQCY13bChgcQDcoU8io-0" />
@@ -1535,7 +1535,7 @@
             <mxPoint x="1550" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocnJgE6I9mIVauKBUivG-7" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ytQCY13bChgcQDcoU8io-1" target="x0Hs2PjLhFOqbhanc1zc-94">
+        <mxCell id="ocnJgE6I9mIVauKBUivG-7" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ytQCY13bChgcQDcoU8io-1" source="x0Hs2PjLhFOqbhanc1zc-83" target="x0Hs2PjLhFOqbhanc1zc-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="1050" as="sourcePoint" />
             <mxPoint x="1100" y="900" as="targetPoint" />
