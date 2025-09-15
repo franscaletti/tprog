@@ -1490,7 +1490,7 @@
         <mxCell id="x0Hs2PjLhFOqbhanc1zc-104" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Alta de patrocinio&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="ytQCY13bChgcQDcoU8io-1" vertex="1">
           <mxGeometry x="200" y="640" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x0Hs2PjLhFOqbhanc1zc-109" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="ytQCY13bChgcQDcoU8io-1" edge="1" target="x0Hs2PjLhFOqbhanc1zc-74">
+        <mxCell id="x0Hs2PjLhFOqbhanc1zc-109" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="ytQCY13bChgcQDcoU8io-1" edge="1" target="x0Hs2PjLhFOqbhanc1zc-74" source="x0Hs2PjLhFOqbhanc1zc-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="660" as="sourcePoint" />
             <mxPoint x="890" y="280" as="targetPoint" />
