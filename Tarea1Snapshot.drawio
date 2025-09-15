@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="5">
   <diagram name="ModeloDominio" id="bCZvV9yb4Iyw5BmVlnvM">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,7 +408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DSS" id="Lmwg-wc6o2-wSDF67b4l">
-    <mxGraphModel dx="1810" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-0" />
         <mxCell id="7qbBtTqkFl1bNYgJkVoJ-1" parent="7qbBtTqkFl1bNYgJkVoJ-0" />
@@ -837,7 +837,7 @@
             <mxPoint x="696.2342400000003" y="99.17000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6yPybzIPCYp1rz6-2Ag-8" value="ok := altaOrganizador(nombre: string, nickname:string, correo: string, descripcion: string): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
+        <mxCell id="d6yPybzIPCYp1rz6-2Ag-8" value="ok := altaOrganizador(nombre: string, contraseña:string, nickname:string, correo: string, descripcion: string, imagen: DTImagen): bool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
           <mxGeometry x="140" y="70" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-9" value="" style="group" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1" connectable="0">
@@ -918,7 +918,7 @@
             <mxPoint x="696" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6yPybzIPCYp1rz6-2Ag-29" value="altaAsistente(nombre: string, nickname:string, correo: string, apellido: string, FechaNac: date)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
+        <mxCell id="d6yPybzIPCYp1rz6-2Ag-29" value="altaAsistente(nombre: string, nickname:string, contraseña:string correo: string, apellido: string, FechaNac: date, imagen: DTImagen)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1">
           <mxGeometry x="137.26999999999998" y="710" width="505.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d6yPybzIPCYp1rz6-2Ag-30" value="" style="group" parent="d6yPybzIPCYp1rz6-2Ag-4" vertex="1" connectable="0">
@@ -1157,14 +1157,14 @@
         <mxCell id="hgstG4fvZgjBxJNcRNgQ-0" value="&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;No sería un OPT acá y una función distinta según si rechaza o acepta?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;O que la pase como parámetro un bool&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;aceptar&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1200" y="2005" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="umBaieaVM6OhI6DmlJ3u-0" value="&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;Modificar alguno de estos con lo nuevo (contraseña / imagen) y agregarlo en la entrega también&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="7qbBtTqkFl1bNYgJkVoJ-1">
+        <mxCell id="umBaieaVM6OhI6DmlJ3u-0" value="&lt;span style=&quot;background-color: rgb(117, 250, 255);&quot;&gt;Modificar alguno de estos con lo nuevo (contraseña / imagen) y agregarlo en la entrega también&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="7qbBtTqkFl1bNYgJkVoJ-1" vertex="1">
           <mxGeometry x="1720" y="1379" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Diagrama Diseño del Sitio Web Estático" id="IPDr1E_J4ODhV3s-z2NI">
-    <mxGraphModel dx="2956" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ytQCY13bChgcQDcoU8io-0" />
         <mxCell id="ytQCY13bChgcQDcoU8io-1" parent="ytQCY13bChgcQDcoU8io-0" />
