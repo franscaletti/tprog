@@ -2751,7 +2751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AstDBFkzIsTgUu8P7Yen" name="Diagrame de Clase">
-    <mxGraphModel dx="563" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3345,6 +3345,27 @@
         </mxCell>
         <mxCell id="x3D_SU4Ffy-t0D56KkeB-7" value="&lt;div&gt;estado: DTEstado&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="x3D_SU4Ffy-t0D56KkeB-1">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-8" value="&amp;lt;&amp;lt;enum&amp;gt;&amp;gt;&lt;div&gt;DTEstado&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="150" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-9" value="Aceptada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbtHBQnKArM8higqpT8u-8">
+          <mxGeometry y="26" width="150" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-10" value="Rechazada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbtHBQnKArM8higqpT8u-8">
+          <mxGeometry y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-11" value="Ingresada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbtHBQnKArM8higqpT8u-8">
+          <mxGeometry y="70" width="150" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-12" value="&amp;lt;&amp;lt;datatype&amp;gt;&amp;gt;&lt;div&gt;DTImagen&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="102" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-13" value="Nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbtHBQnKArM8higqpT8u-12">
+          <mxGeometry y="26" width="150" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="qbtHBQnKArM8higqpT8u-14" value="Extension: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="qbtHBQnKArM8higqpT8u-12">
+          <mxGeometry y="50" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
